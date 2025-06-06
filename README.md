@@ -13,6 +13,10 @@ This code implements an end-to-end pipeline to analyze event log sequences using
     - Suspicious cluster ranking by similarity.
     - Runtime and memory usage statistics.
 
+**The LMD dataset can be downloaded via the link: **
+
+https://drive.google.com/drive/folders/1PkJiGpD0Kn1rV8GC9m2b_eWvqQTSa1eH
+
 Key Features:
 -------------
 - BERT Embedding: SentenceTransformer ('bert-base-nli-mean-tokens')
